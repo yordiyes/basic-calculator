@@ -9,4 +9,3 @@ The user provides two numbers and chooses an operation, and the program displays
 - Multiply two numbers  
 - Divide two numbers (with error handling for division by zero)  
 
-## Example Usage
